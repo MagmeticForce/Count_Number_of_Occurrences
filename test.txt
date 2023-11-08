@@ -1,0 +1,12 @@
+test
+hello
+world
+Test
+test
+newWord
+Hello
+world
+test
+Hello
+Newword
+NEwWorD
